@@ -25,7 +25,6 @@ namespace LandChecker
         [Test, Order(1)]
         public void VerifyPageTitle()
         {
-         //   BasicActions.VerifyPageTitle(_driver);
             Assert.AreEqual("Join | Landchecker", _driver.Title);
         }
 
