@@ -23,3 +23,4 @@ In this test automation repo, I have initially created 18 test cases namely:
 - Registration - Verify Login Redirection
 
 And can be ran locally using ChromeDriver. Language used is C# and automated testing framework used is Selenium.
+Recording of running automation: https://youtu.be/SKQTt-4dPcY
